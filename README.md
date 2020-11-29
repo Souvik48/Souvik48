@@ -4,9 +4,9 @@
 **Souvik48/Souvik48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
-### I am Souvik Das :man_technologist:
+### I am Souvik Das :technologist:
 
-- 🔭 I’m Full Stack Developer.
+- :man_technologist: I’m Full Stack Developer.
 - :blue_book: I’m currently learning Javascript,React.js.
 - 👯 I’m looking to collaborate on Open Source Projects :sparkling_heart: 
 - 🤔 I’m looking for job opportunities in Web Developer or Analyst Role.
