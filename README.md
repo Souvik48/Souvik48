@@ -23,7 +23,7 @@ Here are some ideas to get you started: -->
 
 ## Tools and other stuff
 <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-icon.svg" />
+<img align="left" alt="postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 <img align="left" alt="npm" width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 <img align="left" alt="figma" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
