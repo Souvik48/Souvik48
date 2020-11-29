@@ -6,7 +6,7 @@ Here are some ideas to get you started: -->
 
 ### I am Souvik Das :technologist:
 
-- :man_technologist: I’m Full Stack Developer.
+- :man_technologist: I’m a Full Stack Web Developer.
 - :blue_book: I’m currently learning Javascript,React.js.
 - 👯 I’m looking to collaborate on Open Source Projects :sparkling_heart: 
 - 🤔 I’m looking for job opportunities in Web Developer or Analyst Role.
