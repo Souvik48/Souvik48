@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 - :blue_book: I’m currently learning Javascript,React.js.
 - 👯 I’m looking to collaborate on Open Source Projects :sparkling_heart: 
 - 🤔 I’m looking for job opportunities in Web Developer or Analyst Role.
-- 💬 Ask me about C,Java,Python.
+- 💬 Ask me about C,Java,Python and design related stuffs.
 - 📫 How to reach me: How to reach me: [Email me](mailto:iamsouvikdas48@gmail.com)
 
 ## Connect with **me*
@@ -18,7 +18,7 @@ Here are some ideas to get you started: -->
 [<img height="30" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/souvik_36/)
 [<img height="30" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:iamsouvikdas48@gmail.com)
 [<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://https://www.linkedin.com/in/souvik-das-aa716a191/)
-<!--[<img height="30" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@theshubhagrwl)
+<!--[<img height="30" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/)
 -->
 
 ## Tools and other stuff
