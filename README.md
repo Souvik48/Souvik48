@@ -30,4 +30,4 @@ Here are some ideas to get you started: -->
 <br />
 <br />
 <hr />
-![Souvik's github stats](https://github-readme-stats-pi.vercel.app/api?username=souvik48&show_icons=true&count_private=true)
+![Souvik's github stats] (https://github-readme-stats-pi.vercel.app/api?username=souvik48&show_icons=true&count_private=true)
