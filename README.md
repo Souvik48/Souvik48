@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on Open Source Projects :sparkling_heart: 
 - 🤔 I’m looking for job opportunities in Web Developer or Analyst Role.
 - 💬 Ask me about C,Java,Python and design related stuffs.
-- 📫 How to reach me: How to reach me: [Email me](mailto:iamsouvikdas48@gmail.com)
+- 📫 How to reach me: [Email me](mailto:iamsouvikdas48@gmail.com)
 
 ## Connect with **me*
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/souvik_48)
